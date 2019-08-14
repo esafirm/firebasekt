@@ -3,7 +3,7 @@ package com.firebase.wrappers.functions
 @JsModule("firebase-functions")
 external object Functions {
 
-    fun config(): dynamic
+    fun config(): FunctionConfig
 
     val https : Https
 }
