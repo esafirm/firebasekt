@@ -14,3 +14,6 @@ gradle-app.setting
 node_modules/
 
 .idea
+
+# KotlinJS
+output/
